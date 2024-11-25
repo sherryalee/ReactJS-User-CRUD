@@ -1,0 +1,86 @@
+
+{
+  "user":
+  [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@example.com",
+      "phone": "123-456-7890",
+      "website": "www.johndoe.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "janesmith@example.com",
+      "phone": "987-654-3210",
+      "website": "www.janesmith.com"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alicej@example.com",
+      "phone": "456-789-1230",
+      "website": "www.alicejohnson.com"
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "username": "bobbrown",
+      "email": "bobbrown@example.com",
+      "phone": "321-654-9870",
+      "website": "www.bobbrown.com"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Davis",
+      "username": "charlied",
+      "email": "charlied@example.com",
+      "phone": "654-321-0987",
+      "website": "www.charliedavis.com"
+    },
+    {
+      "id": 6,
+      "name": "Diana Clark",
+      "username": "dianac",
+      "email": "dianac@example.com",
+      "phone": "789-012-3456",
+      "website": "www.dianaclark.com"
+    },
+    {
+      "id": 7,
+      "name": "Ethan Lee",
+      "username": "ethanlee",
+      "email": "ethanlee@example.com",
+      "phone": "012-345-6789",
+      "website": "www.ethanlee.com"
+    },
+    {
+      "id": 8,
+      "name": "Fiona Martinez",
+      "username": "fionam",
+      "email": "fionam@example.com",
+      "phone": "567-890-1234",
+      "website": "www.fionamartinez.com"
+    },
+    {
+      "id": 9,
+      "name": "George Wilson",
+      "username": "georgew",
+      "email": "georgew@example.com",
+      "phone": "234-567-8901",
+      "website": "www.georgewilson.com"
+    },
+    {
+      "id": 10,
+      "name": "Hannah Moore",
+      "username": "hannahm",
+      "email": "hannahm@example.com",
+      "phone": "890-123-4567",
+      "website": "www.hannahmoore.com"
+    }
+  ]
+}
